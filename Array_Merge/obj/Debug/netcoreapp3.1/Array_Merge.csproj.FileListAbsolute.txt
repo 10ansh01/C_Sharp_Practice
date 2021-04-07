@@ -1,0 +1,12 @@
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.exe
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.deps.json
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.runtimeconfig.json
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.runtimeconfig.dev.json
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.dll
+D:\C# Practice\Array_Merge\bin\Debug\netcoreapp3.1\Array_Merge.pdb
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.AssemblyInfoInputs.cache
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.AssemblyInfo.cs
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.csproj.CoreCompileInputs.cache
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.dll
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.pdb
+D:\C# Practice\Array_Merge\obj\Debug\netcoreapp3.1\Array_Merge.genruntimeconfig.cache
